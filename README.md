@@ -1,6 +1,9 @@
 
 
-<div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner(1)33.png"> </div>
+<div align="center">
+    <img src="https://github.com/manish22154003/manish22154003/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png">
+</div>
+
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish22154003&label=Profile%20views&color=0e75b6&style=flat" alt="manish22154003" /> </p>
 
